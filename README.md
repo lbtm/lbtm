@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbtm&show_icons=true&theme=radical&count_private=true&hide=commits,contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lbtm/lbtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
